@@ -1,2 +1,2 @@
-# JsonFUSE
-Json File System using FUSE
+./build.sh
+./run.sh
